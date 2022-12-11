@@ -35,5 +35,5 @@
 
 ## FLOWCHART
 
-![img](Gambar/flowchart.PNG)
+![img](Gambar/Flowchart.PNG)
 
